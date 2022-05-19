@@ -1,5 +1,5 @@
 # Red vs Blue Project
-*Assessment, Analysis, and Hardening of a vulnerable system.
+# Assessment, Analysis, and Hardening of a vulnerable system.
 
 This report includes;
 
